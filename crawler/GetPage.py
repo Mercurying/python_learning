@@ -52,6 +52,6 @@ class ThemePage(object):
 #     num = int(page['总页数'])
 #     total_num += num
 
-# print(total_num)  
+# print(total_num)
 # print('https://movie.douban.com/tag/{}?start=0&type=T'.format(urllib.request.quote(u'喜剧')))
 # 共 5998个页面
